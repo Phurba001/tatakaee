@@ -1,0 +1,7 @@
+body{ margin:0;}
+.maintitle {
+background-color: green; padding:20px; text-align:center; }
+.mainblock { 
+background-color : yellow; padding: 20px;  text-align:center;}
+.footer {
+background-color: blue; padding:20px; text-align:center;}
